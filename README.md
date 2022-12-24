@@ -1,5 +1,5 @@
 # Group Project 2022-2023
-**Topic**: Car Damage Detection<br/>
+**Topic**: *Car Damage Detection*<br/>
 **Supervisor**: Dr. Lê Hữu Tôn
 ## Group members
 - Phùng Phú Mỹ
